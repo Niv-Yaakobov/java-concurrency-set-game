@@ -37,7 +37,7 @@ To implement the core logic of the Set card game using Java threads, where multi
 - Timed reshuffling of cards if no set is found.
 - Synchronization where needed for thread safety.
 
-## 🏅 Bonus Features (If Implemented)
+## 🏅 Bonus Features
 
 - No use of magic numbers (uses configuration fields).
 - Graceful thread termination in reverse creation order.
