@@ -11,7 +11,6 @@ To implement the core logic of the Set card game using Java threads, where multi
 - Java
 - Java Threads and Synchronization
 - Maven (Build tool)
-- JUnit (for testing)
 - Swing-based User Interface (provided by course)
 
 ## 🚀 How to Run
